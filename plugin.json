@@ -1,0 +1,9 @@
+{
+    "name": "Plugin Basket Assistant Coach",
+    "description": "AI assistent for Basket coach, basketball training programme, support to the basketball coach on training and coaching programmes.",
+    "author_name": "Mario Alfiero",
+    "tags": "sport,coach,training,team, basketball",
+    "plugin_url": "https://github.com/MarioAlfio/Assistent_coach.git",
+    "thumb": "https://img.freepik.com/premium-vector/cat-playing-basketball-illustration_21861-87.jpg",
+    "version": "0.0.6"
+}
